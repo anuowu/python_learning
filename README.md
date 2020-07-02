@@ -1,2 +1,2 @@
 # python_learning
-records process of learning python
+Recording process of learning python. Gan!
